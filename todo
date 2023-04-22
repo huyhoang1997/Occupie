@@ -1,6 +1,6 @@
 user: nguoi book, nguoi nhan booking => book lich
 
-booking_entity : object de user co the book( co the la con nguoi hoac su vat(nha hang, quan bar, ...) )
+booking_subject : object de user co the book( co the la con nguoi hoac su vat(nha hang, quan bar, ...) )
 
 event: event dc tao ra giua nguoi nhan booking va nguoi book khi da thong nhat => event la dc accept hoac decline dựa trên người nhận booking, sẽ dc notify
 
