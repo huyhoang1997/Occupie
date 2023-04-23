@@ -1,0 +1,10 @@
+env:
+  dev:
+    db:
+      name: postgres
+      user: postgres
+      password: PdMH8Kph0xZ0FeUL
+      host: db.oldgsukfojjijiwymcjj.supabase.co
+      port: 5432
+  stg:
+  production:
